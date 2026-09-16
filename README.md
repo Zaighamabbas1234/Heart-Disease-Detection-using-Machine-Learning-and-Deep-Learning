@@ -23,27 +23,27 @@ The notebook is available in the project's GitHub repository.
 * Generate predictions from trained models.
 # Project Workflow:
 ```text
-Dataset
+Dataset.
    ↓
-Data Loading
+Data Loading.
    ↓
-Data Cleaning & Preprocessing
+Data Cleaning & Preprocessing.
    ↓
-Exploratory Data Analysis
+Exploratory Data Analysis.
    ↓
-Data Visualization
+Data Visualization.
    ↓
-Feature Preparation
+Feature Preparation.
    ↓
-Train-Test Split
+Train-Test Split.
    ↓
-Machine Learning Models
+Machine Learning Models.
    ↓
-Deep Learning Model
+Deep Learning Model.
    ↓
-Model Evaluation
+Model Evaluation.
    ↓
-Predictions
+Predictions.
 ```
 # Data Science Process:
 ## 1. Data Loading:
@@ -51,7 +51,7 @@ The dataset is loaded into the Python environment and inspected to understand it
 
 ---
 
-## 2. Data Preprocessing
+## 2. Data Preprocessing:
 The preprocessing stage may include:
 * Checking missing values.
 * Identifying duplicate records.
